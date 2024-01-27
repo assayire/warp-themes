@@ -1,0 +1,29 @@
+details: "darker"
+
+accent: "#8d8f9e"
+background: "#1c1e2d"
+foreground: "#dee0ef"
+
+background_image:
+  path: "assets/dusk.jpg"
+  opacity: 80
+
+terminal_colors:
+  normal:
+    black: "#363847"
+    red: "#d1918f"
+    green: "#aac9d4"
+    yellow: "#edd5d6"
+    blue: "#709bbd"
+    magenta: "#a392dc"
+    cyan: "#a0b6e8"
+    white: "#c7c7c7"
+  bright:
+    black: "#6b6d7c"
+    red: "#d1918f"
+    green: "#aac9d4"
+    yellow: "#edd5d6"
+    blue: "#709bbd"
+    magenta: "#a392dc"
+    cyan: "#a0b6e8"
+    white: "#fffefe"
