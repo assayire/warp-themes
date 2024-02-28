@@ -1,0 +1,31 @@
+accent:
+  left: "#fc28a8"
+  right: "#f5e949"
+
+details: "darker"
+background: "#0c0a20"
+foreground: "#7984D1"
+
+background_image:
+  path: assets/outrun.jpg
+  opacity: 30
+
+terminal_colors:
+  bright:
+    blue: "#42c6ff"
+    green: "#cbfc44"
+    magenta: "#ff2afc"
+    black: "#435056"
+    red: "#ff2e97"
+    yellow: "#ffd400"
+    cyan: "#39fff6"
+    white: "#ffffff"
+  normal:
+    blue: "#1ea8fc"
+    yellow: "#f7b83d"
+    black: "#283034"
+    magenta: "#A875FF"
+    green: "#a7da1e"
+    red: "#ff0081"
+    cyan: "#16f1fc"
+    white: "#f9faff"
