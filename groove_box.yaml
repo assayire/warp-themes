@@ -1,0 +1,27 @@
+details: "darker"
+
+accent: "#eebf37"
+background: "#202020"
+foreground: "#b7ac8c"
+
+# TODO: green, magenta, background
+
+terminal_colors:
+  normal:
+    black: "#050404"
+    red: "#fc2c57"
+    green: "#00c35a"
+    yellow: "#edbe37"
+    blue: "#6364ff"
+    magenta: "#581845"
+    cyan: "#668177"
+    white: "#b7ac8c"
+  bright:
+    black: "#050404"
+    red: "#fc2c57"
+    green: "#00c35a"
+    yellow: "#edbe37"
+    blue: "#6364ff"
+    magenta: "#581845"
+    cyan: "#668177"
+    white: "#b7ac8c"
