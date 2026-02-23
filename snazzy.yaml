@@ -1,13 +1,16 @@
 details: darker
 
 accent: "#ff6ac1"
+background: "#282a36"
+foreground: "#eff0eb"
 # other accent colors:
   # blue: #57c7ff
   # green: #5af78e
   # red: #ff5c57
 
-background: "#282a36"
-foreground: "#eff0eb"
+background_image:
+  path: assets/samurai.jpg
+  opacity: 50
 
 terminal_colors:
   bright:
